@@ -4,9 +4,9 @@ Version:	0.1.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/isaacs/chmodr
 Source0:	http://registry.npmjs.org/chmodr/-/chmodr-%{version}.tgz
 # Source0-md5:	6461673dd949fdf7de4be40792914931
+URL:		https://github.com/isaacs/chmodr
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
